@@ -1,0 +1,11 @@
+actor_id,type,name,is_part_of,datasource_id
+BR CJP,city,Cajapió,BR-MA,UNLOCODE:2022-1
+US STG,city,Saint George Island,US-AK,UNLOCODE:2022-1
+CL SRM,city,San Ramón,CL-RM,UNLOCODE:2022-1
+IT OSM,city,Osimo,IT-AN,UNLOCODE:2022-1
+CZ JME,city,Mikulcice,CZ,UNLOCODE:2022-1
+ES EGO,city,Elgorriaga,ES-NA,UNLOCODE:2022-1
+BO CHA,city,Charaña,BO-L,UNLOCODE:2022-1
+MX ADR,city,Ario de Rosales,MX-MIC,UNLOCODE:2022-1
+BR PKS,city,Pancas,BR-ES,UNLOCODE:2022-1
+PT ALS,city,Alcains,PT-05,UNLOCODE:2022-1
